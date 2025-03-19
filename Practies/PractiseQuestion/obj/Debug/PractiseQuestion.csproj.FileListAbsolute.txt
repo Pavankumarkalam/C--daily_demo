@@ -1,7 +1,0 @@
-D:\GreatLearning\Practies\PractiseQuestion\bin\Debug\PractiseQuestion.exe.config
-D:\GreatLearning\Practies\PractiseQuestion\bin\Debug\PractiseQuestion.exe
-D:\GreatLearning\Practies\PractiseQuestion\bin\Debug\PractiseQuestion.pdb
-D:\GreatLearning\Practies\PractiseQuestion\obj\Debug\PractiseQuestion.csproj.AssemblyReference.cache
-D:\GreatLearning\Practies\PractiseQuestion\obj\Debug\PractiseQuestion.csproj.CoreCompileInputs.cache
-D:\GreatLearning\Practies\PractiseQuestion\obj\Debug\PractiseQuestion.exe
-D:\GreatLearning\Practies\PractiseQuestion\obj\Debug\PractiseQuestion.pdb

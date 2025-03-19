@@ -1,7 +1,0 @@
-D:\GreatLearning\Practies\Day3-1\bin\Debug\Day3-1.exe.config
-D:\GreatLearning\Practies\Day3-1\bin\Debug\Day3-1.exe
-D:\GreatLearning\Practies\Day3-1\bin\Debug\Day3-1.pdb
-D:\GreatLearning\Practies\Day3-1\obj\Debug\Day3-1.csproj.AssemblyReference.cache
-D:\GreatLearning\Practies\Day3-1\obj\Debug\Day3-1.csproj.CoreCompileInputs.cache
-D:\GreatLearning\Practies\Day3-1\obj\Debug\Day3-1.exe
-D:\GreatLearning\Practies\Day3-1\obj\Debug\Day3-1.pdb
