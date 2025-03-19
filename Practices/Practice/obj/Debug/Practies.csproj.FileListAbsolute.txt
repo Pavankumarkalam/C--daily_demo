@@ -1,0 +1,7 @@
+D:\GreatLearning\Practies\Practies\bin\Debug\Practies.exe.config
+D:\GreatLearning\Practies\Practies\bin\Debug\Practies.exe
+D:\GreatLearning\Practies\Practies\bin\Debug\Practies.pdb
+D:\GreatLearning\Practies\Practies\obj\Debug\Practies.csproj.AssemblyReference.cache
+D:\GreatLearning\Practies\Practies\obj\Debug\Practies.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Practies\Practies\obj\Debug\Practies.exe
+D:\GreatLearning\Practies\Practies\obj\Debug\Practies.pdb
