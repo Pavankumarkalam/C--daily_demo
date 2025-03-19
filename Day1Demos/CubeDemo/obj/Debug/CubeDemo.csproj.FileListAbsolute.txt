@@ -1,0 +1,6 @@
+D:\GreatLearning\Day1Demos\CubeDemo\bin\Debug\CubeDemo.dll
+D:\GreatLearning\Day1Demos\CubeDemo\bin\Debug\CubeDemo.pdb
+D:\GreatLearning\Day1Demos\CubeDemo\obj\Debug\CubeDemo.csproj.AssemblyReference.cache
+D:\GreatLearning\Day1Demos\CubeDemo\obj\Debug\CubeDemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day1Demos\CubeDemo\obj\Debug\CubeDemo.dll
+D:\GreatLearning\Day1Demos\CubeDemo\obj\Debug\CubeDemo.pdb

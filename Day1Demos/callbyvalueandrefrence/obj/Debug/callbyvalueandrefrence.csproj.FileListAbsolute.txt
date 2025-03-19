@@ -1,0 +1,10 @@
+D:\GreatLearning\Day1Demos\callbyvalueandrefrence\bin\Debug\callbyvalueandrefrence.exe.config
+D:\GreatLearning\Day1Demos\callbyvalueandrefrence\bin\Debug\callbyvalueandrefrence.exe
+D:\GreatLearning\Day1Demos\callbyvalueandrefrence\bin\Debug\callbyvalueandrefrence.pdb
+D:\GreatLearning\Day1Demos\callbyvalueandrefrence\obj\Debug\callbyvalueandrefrence.csproj.AssemblyReference.cache
+D:\GreatLearning\Day1Demos\callbyvalueandrefrence\obj\Debug\callbyvalueandrefrence.Form1.resources
+D:\GreatLearning\Day1Demos\callbyvalueandrefrence\obj\Debug\callbyvalueandrefrence.Properties.Resources.resources
+D:\GreatLearning\Day1Demos\callbyvalueandrefrence\obj\Debug\callbyvalueandrefrence.csproj.GenerateResource.cache
+D:\GreatLearning\Day1Demos\callbyvalueandrefrence\obj\Debug\callbyvalueandrefrence.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day1Demos\callbyvalueandrefrence\obj\Debug\callbyvalueandrefrence.exe
+D:\GreatLearning\Day1Demos\callbyvalueandrefrence\obj\Debug\callbyvalueandrefrence.pdb
